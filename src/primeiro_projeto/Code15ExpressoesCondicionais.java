@@ -8,7 +8,7 @@ public class Code15ExpressoesCondicionais {
 		Scanner sc = new Scanner(System.in);
 		int hora;
 
-		System.out.println("Que horas são ?");
+		System.out.println("Que horas sao ?");
 		hora = sc.nextInt();
 
 		if (hora < 12) {
