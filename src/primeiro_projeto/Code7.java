@@ -13,7 +13,7 @@ public class Code7 {
 		 */
 		String nome = "Cris";
 		int idade = 20;
-		double salario = 1011321312000.00;
+		double salario = 102000.00;
 		
 		
 		NumberFormat inteiro = NumberFormat.getInstance();
